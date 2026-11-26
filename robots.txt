@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alescodes.github.io/matchfoodprivacy/sitemap.xml
